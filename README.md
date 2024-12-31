@@ -66,7 +66,7 @@ This project is a strong addition to any portfolio, showcasing expertise in NLP,
 
 ## Acknowledgments
 - Developed as part of the **EECE 490: Introduction to Machine Learning** course.
-- The dataset used for translation tasks was sourced from public English-French sentence pairs.
+- The dataset used for translation tasks was sourced from public English-French sentence pairs given by Professor Ammar Mohanna.
 
 ## License
 This project is licensed under the MIT License. See `LICENSE` for details.
