@@ -1,5 +1,5 @@
 # English-French-Translator
-Done as an assignment for EECE 490 machine learning course
+Done as a mini project for EECE 490 machine learning course
 # English-to-French Machine Translation Using Seq2Seq
 
 This repository contains a project on machine translation from English to French, developed as part of the **EECE 490: Introduction to Machine Learning** course. The project implements a Sequence-to-Sequence (Seq2Seq) model with LSTMs and explores tokenization techniques for effective translation.
